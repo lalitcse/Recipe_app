@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="84" viewBox="0 0 290 84">
+  <g id="Group_1379" data-name="Group 1379" transform="translate(-4483 -2502)">
+    <g id="Group_1376" data-name="Group 1376">
+      <circle id="Ellipse_201" data-name="Ellipse 201" cx="42" cy="42" r="42" transform="translate(4483 2502)" fill="#000a0a"/>
+      <text id="_8" data-name="8" transform="translate(4517 2547)" fill="#fff" font-size="29" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">8</tspan></text>
+      <text id="ingredients" transform="translate(4503 2564)" fill="#fff" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ingredients</tspan></text>
+    </g>
+    <g id="Group_1377" data-name="Group 1377" transform="translate(103)">
+      <circle id="Ellipse_201-2" data-name="Ellipse 201" cx="42" cy="42" r="42" transform="translate(4483 2502)" fill="#000a0a"/>
+      <text id="_220" data-name="220" transform="translate(4501 2547)" fill="#fff" font-size="29" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">220</tspan></text>
+      <text id="ingredients-2" data-name="ingredients" transform="translate(4503 2564)" fill="#fff" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ingredients</tspan></text>
+    </g>
+    <g id="Group_1378" data-name="Group 1378" transform="translate(206)">
+      <circle id="Ellipse_201-3" data-name="Ellipse 201" cx="42" cy="42" r="42" transform="translate(4483 2502)" fill="#000a0a"/>
+      <text id="_25" data-name="25" transform="translate(4509 2547)" fill="#fff" font-size="29" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">25</tspan></text>
+      <text id="ingredients-3" data-name="ingredients" transform="translate(4503 2564)" fill="#fff" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ingredients</tspan></text>
+    </g>
+  </g>
+</svg>
